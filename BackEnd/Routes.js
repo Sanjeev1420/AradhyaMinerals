@@ -1,6 +1,6 @@
 const express=require("express");
 const Addadmin = require("./Admin/Addadmin");
-const AdminLogin = require("./Auth/AdminLogin");
+const AdminLogin = require("./Auth/Adminlogin");
 const Login = require("./Auth/login");
 const Register = require("./Auth/Register");
 const Order = require("./Client/Order");

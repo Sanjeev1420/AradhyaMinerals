@@ -4,7 +4,6 @@ const bcrypt = require("bcrypt");
 const con = require("../Connection/Connection");
 
 const AdminLogin = async (req, res) => {
-  console.log("kjdf")
   const { adminnumber, adminpassword } = req.body;
   
   try {
