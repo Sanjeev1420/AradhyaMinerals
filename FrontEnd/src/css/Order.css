@@ -1,0 +1,24 @@
+.order-details
+{
+    margin-top: 1em;
+    padding: 1em;
+    color: white;
+    
+}
+.card-header
+{
+    background-color: #fffaf2;
+}
+.order-details span
+{
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+}
+.order-details b
+{
+    text-decoration: none;
+}
+.order{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
