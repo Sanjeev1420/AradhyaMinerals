@@ -85,6 +85,12 @@ const Login = () => {
                     </button>
                   </div>
                 </form>
+                <div className="pt-2 pl-2">
+                  <p>Demo Credentials : </p>
+                  <p>Mobile Number : 1234567890 </p>
+                  <p>Password : test_user</p>
+                </div>
+                
               </Col>
             </Row>
           </Container>
